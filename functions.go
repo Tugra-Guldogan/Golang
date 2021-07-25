@@ -11,4 +11,4 @@ func sayilar(a string, b string)string {
 func main() {
     oku := sayilar("Ahmet ", "Mehmet")
     fmt.Println(oku)
-} // Oku adında belirlediğim değişkene, fonksiyonun adını belirtip parantez açtım ve içine gelecek değerleri girdim. Sonra ekrana değişkenin adını girerek yazdırdım
+} // Oku adında belirlediğim değişkene, fonksiyonun adını belirtip parantez açtım ve içine gelecek değerleri girdim. Sonra ekrana değişkenin adını girerek yazdırdım.
